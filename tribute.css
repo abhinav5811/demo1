@@ -1,0 +1,56 @@
+body{
+    box-shadow: 2px 2px 5px 5px red;
+  margin: 50px;
+}
+section{
+    background-color: beige;
+    margin: 50px;
+    
+    cursor:default;
+}
+
+h1{
+    text-align: center;
+    color: tomato;
+    font-size: 50px;
+}
+
+.yellow{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+   
+   line-height: 50px;
+   text-align: center;
+}
+img{
+    float: right;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    display: flex;
+    cursor:pointer;    
+}
+img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+}
+li{
+    background-color: rgb(250, 208, 193);
+    color: rgb(122, 59, 44);
+    font-size: 18px;
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 50px;
+    list-style: none;
+   
+  
+  
+}
+#kalam{
+    margin: 0px;
+    
+}
+.demo{
+    
+    padding: 20px;
+    
+}
